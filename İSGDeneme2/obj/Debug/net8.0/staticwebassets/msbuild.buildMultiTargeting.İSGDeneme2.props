@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\İSGDeneme2.props" />
+</Project>

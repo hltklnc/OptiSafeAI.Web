@@ -1,0 +1,25 @@
+﻿@model İSGDeneme2.Models.Report
+
+
+<h2>Rapor Detayları</h2>
+
+<table class="table">
+    <tr>
+        <th>Başlık</th>
+        <td>@Model.Title</td>
+    </tr>
+    <tr>
+        <th>Oluşturan</th>
+        <td>@Model.CreatedBy</td>
+    </tr>
+    <tr>
+        <th>İçerik</th>
+        <td>@Model.Content</td>
+    </tr>
+    <tr>
+        <th>Oluşturulma Tarihi</th>
+        <td>@Model.CreatedAt.ToShortDateString()</td>
+    </tr>
+</table>
+
+<a href="@Url.Action("Index", "Reports")" class="btn btn-secondary">Geri</a>

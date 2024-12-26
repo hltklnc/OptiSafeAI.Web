@@ -1,0 +1,75 @@
+﻿@* @model IEnumerable<İSGDeneme2.Models.Report> *@
+@* @model İSGDeneme2.Models.Report *@
+@model İSGDeneme2.Models.ReportViewModel
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Rapor Listesi</h2>
+
+<form asp-action="FilterReports" method="get">
+    <div class="form-row">
+        <div class="col">
+            <label for="startDate">Başlangıç Tarihi:</label>
+            <input type="date" id="startDate" name="startDate" class="form-control" 
+                   value="@Model.StartDate?.ToString("yyyy-MM-dd")" />
+        </div>
+
+        <div class="col">
+            <label for="endDate">Bitiş Tarihi:</label>
+            <input type="date" id="endDate" name="endDate" class="form-control" 
+                   value="@Model.EndDate?.ToString("yyyy-MM-dd")" />
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Filtrele</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Başlık</th>
+            <th>Oluşturan</th>
+            <th>İçerik</th>
+            <th>Oluşturulma Tarihi</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var report in Model.Reports)
+        {
+            <tr>
+                <td>@report.Title</td>
+                <td>@report.CreatedBy</td>
+                <td>@report.Content</td>
+                <td>@report.CreatedAt.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<h2>Yeni Rapor Ekle</h2>
+
+    <form asp-action="Create" method="post">
+        <div class="form-group">
+            <label for="Title">Başlık</label>
+            <input type="text" name="Title" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+            <label for="CreatedBy">Oluşturan</label>
+            <input type="text" name="CreatedBy" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+            <label for="Content">İçerik</label>
+            <textarea name="Content" class="form-control" rows="5" required></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-success">Kaydet</button>
+    </form>
+
+
+

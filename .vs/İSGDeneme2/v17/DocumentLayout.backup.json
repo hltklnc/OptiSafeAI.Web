@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\views\\reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\views\\reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\models\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\models\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\views\\reports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\views\\reports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\views\\reports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\views\\reports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\views\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\views\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\views\\shared\\_employeefilter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\views\\shared\\_employeefilter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\views\\camera\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\views\\camera\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\wwwroot\\admin\\css\\giriss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\wwwroot\\admin\\css\\giriss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\controllers\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\controllers\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\halit\\projeler\\optisafeai\\\u0130sgdeneme2\\wwwroot\\admin\\blank.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4993173B-8C21-435D-8B59-979278D5D6B1}|\u0130SGDeneme2\\\u0130SGDeneme2.csproj|solutionrelative:\u0130sgdeneme2\\wwwroot\\admin\\blank.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "\u0130SGDeneme2\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:50:46.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\ReportViewModel.cs",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Models\\ReportViewModel.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\ReportViewModel.cs",
+              "RelativeToolTip": "\u0130SGDeneme2\\Models\\ReportViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:12:17.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Reports\\Edit.cshtml",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Views\\Reports\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Reports\\Edit.cshtml",
+              "RelativeToolTip": "\u0130SGDeneme2\\Views\\Reports\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T12:27:36.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Reports\\Details.cshtml",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Views\\Reports\\Details.cshtml",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Reports\\Details.cshtml",
+              "RelativeToolTip": "\u0130SGDeneme2\\Views\\Reports\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T12:23:00.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Reports\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Views\\Reports\\Index.cshtml",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Reports\\Index.cshtml",
+              "RelativeToolTip": "\u0130SGDeneme2\\Views\\Reports\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:35:22.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "\u0130SGDeneme2\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:50:55.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "\u0130SGDeneme2\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:54:31.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Program.cs",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Program.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Program.cs",
+              "RelativeToolTip": "\u0130SGDeneme2\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:16:33.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "\u0130SGDeneme2\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:10:09.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\Report.cs",
+              "RelativeToolTip": "\u0130SGDeneme2\\Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:15:29.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "\u0130SGDeneme2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:46:15.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "\u0130SGDeneme2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T16:49:56.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\View.cshtml",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Views\\View.cshtml",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\View.cshtml",
+              "RelativeToolTip": "\u0130SGDeneme2\\Views\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:01:54.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "\u0130SGDeneme2\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:51:58.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Models\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\EmployeeViewModel.cs",
+              "RelativeToolTip": "\u0130SGDeneme2\\Models\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:11:18.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\Employee.cs",
+              "RelativeToolTip": "\u0130SGDeneme2\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:11:46.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "\u0130SGDeneme2\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:50:27.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "\u0130SGDeneme2\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T16:51:07.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_EmployeeFilter.cshtml",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Shared\\_EmployeeFilter.cshtml",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Views\\Shared\\_EmployeeFilter.cshtml",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Shared\\_EmployeeFilter.cshtml",
+              "RelativeToolTip": "\u0130SGDeneme2\\Views\\Shared\\_EmployeeFilter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T14:56:03.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Models\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\DashboardViewModel.cs",
+              "RelativeToolTip": "\u0130SGDeneme2\\Models\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:28:06.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Home\\Index2.cshtml",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Views\\Home\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Home\\Index2.cshtml",
+              "RelativeToolTip": "\u0130SGDeneme2\\Views\\Home\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:31:11.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Camera\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Views\\Camera\\Index.cshtml",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Camera\\Index.cshtml",
+              "RelativeToolTip": "\u0130SGDeneme2\\Views\\Camera\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:37:37.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "giriss.css",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\wwwroot\\Admin\\css\\giriss.css",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\wwwroot\\Admin\\css\\giriss.css",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\wwwroot\\Admin\\css\\giriss.css",
+              "RelativeToolTip": "\u0130SGDeneme2\\wwwroot\\Admin\\css\\giriss.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-26T09:31:48.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "\u0130SGDeneme2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T20:51:54.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Controllers\\CameraController.cs",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Controllers\\CameraController.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Controllers\\CameraController.cs",
+              "RelativeToolTip": "\u0130SGDeneme2\\Controllers\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:51:07.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "\u0130SGDeneme2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:16:21.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\appsettings.json",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\appsettings.json",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\appsettings.json",
+              "RelativeToolTip": "\u0130SGDeneme2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T17:17:24.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Models\\Login.cs",
+              "RelativeToolTip": "\u0130SGDeneme2\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:22:09.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "\u0130SGDeneme2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:01:09.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "\u0130SGDeneme2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:01:06.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "blank.html",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\wwwroot\\Admin\\blank.html",
+              "RelativeDocumentMoniker": "\u0130SGDeneme2\\wwwroot\\Admin\\blank.html",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\Halit\\Projeler\\OptiSafeAI\\\u0130SGDeneme2\\wwwroot\\Admin\\blank.html",
+              "RelativeToolTip": "\u0130SGDeneme2\\wwwroot\\Admin\\blank.html",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAuwI4BAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-25T16:51:15.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

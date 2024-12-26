@@ -1,0 +1,152 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<head>
+    <link href="~/Admin/css/giriss.css" rel="stylesheet" type="text/css">
+</head>
+<div class="container-fluid mt-3">
+    <div class="row">
+        <div class="col-lg-3 col-sm-6">
+            <div class="card gradient-1">
+                <div class="card-body">
+                    <h3 class="card-title text-white">Kamera Sayısı</h3>
+                    <div class="d-inline-block">
+                        <h2 class="text-white">@ViewBag.Personel</h2>
+                        <p class="text-white mb-0">@DateTime.Now.ToShortDateString()</p>
+                    </div>
+                    <span class="float-right display-5 opacity-5"><i class="fa fa-camera"></i></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+            <div class="card gradient-2">
+                <div class="card-body">
+                    <h3 class="card-title text-white">Rapor Sayısı</h3>
+                    <div class="d-inline-block">
+                        <h2 class="text-white">@ViewBag.RaporSayısı</h2>
+                        <p class="text-white mb-0">@DateTime.Now.ToShortDateString()</p>
+                    </div>
+                    <span class="float-right display-5 opacity-5"><i class="fa fa-book"></i></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+            <div class="card gradient-3">
+                <div class="card-body">
+                    <h3 class="card-title text-white">Personel Sayısı</h3>
+                    <div class="d-inline-block">
+                        <h2 class="text-white">@ViewBag.Personel</h2>
+                        <p class="text-white mb-0">@DateTime.Now.ToShortDateString()</p>
+                    </div>
+                    <span class="float-right display-5 opacity-5"><i class="fa fa-users"></i></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+            <div class="card gradient-4">
+                <div class="card-body">
+                    <h3 class="card-title text-white">Customer Healty</h3>
+                    <div class="d-inline-block">
+                        <h2 class="text-white">94%</h2>
+                        <p class="text-white mb-0">@DateTime.Now.ToShortDateString()</p>
+                    </div>
+                    <span class="float-right display-5 opacity-5"><i class="fa fa-heart"></i></span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    @model DashboardViewModel
+
+    <div class="row">
+        <!-- Son Eklenen Personeller -->
+        <div class="col-md-6">
+            <h4>Son Eklenen Personeller</h4>
+            <ul class="list-group">
+                @foreach (var employee in Model.RecentEmployees)
+                {
+                    <li class="list-group-item">
+                        <span class="text-muted">
+                            @employee.Employeesdate.ToShortDateString()
+                            @($" Personelin İsmi : {employee.FullName}       Personelin Oluşturulma Tarihi : {employee.Employeesdate.ToShortDateString()}")
+                        </span>
+                    </li>
+                }
+            </ul>
+        </div>
+
+
+        <!-- Son Oluşturulan Raporlar -->
+        <div class="col-md-6">
+            <h4>Son Oluşturulan Raporlar</h4>
+            <ul class="list-group">
+                @foreach (var report in Model.RecentReports)
+                {
+                    <li class="list-group-item">
+                        <span class="text-muted">
+                            @if (report.CreatedAt != DateTime.MinValue)
+                            {
+                                @* <p>
+                        @report.CreatedAt.ToShortDateString()   @report.CreatedBy
+                        </p> *@
+                                @($" Raporun Oluşuturulma Tarihi : {report.CreatedAt.ToShortDateString()}  Rapor {report.CreatedBy} Tarafından Oluşturuldu.")
+
+                            }
+                            else
+                            {
+                                @:No Data Available
+                            }
+                        </span>
+                    </li>
+                }
+            </ul>
+        </div>
+
+
+    </div>
+
+@*     <form asp-action="Filter" method="get">
+        <div class="form-row">
+            <div class="col">
+                <label for="department">Departman:</label>
+                <select id="department" name="department" class="form-control">
+                    <option value="">Tüm Departmanlar</option>
+                    @foreach (var department in ViewBag.Departments)
+                    {
+                        <option value="@department">@department</option>
+                    }
+                </select>
+            </div>
+
+            <div class="col">
+                <label for="startDate">Başlangıç Tarihi:</label>
+                <input type="date" id="startDate" name="startDate" class="form-control" />
+            </div>
+
+            <div class="col">
+                <label for="endDate">Bitiş Tarihi:</label>
+                <input type="date" id="endDate" name="endDate" class="form-control" />
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary mt-2">Filtrele</button>
+    </form> *@
+
+    <select id="department" name="department" class="form-control">
+        <option value="">Tüm Departmanlar</option>
+        @if (ViewBag.Departments != null)
+        {
+            foreach (var department in ViewBag.Departments)
+            {
+                <option value="@department">@department</option>
+            }
+        }
+        else
+        {
+            <option value="">Departman bulunamadı</option>
+        }
+    </select>
+
