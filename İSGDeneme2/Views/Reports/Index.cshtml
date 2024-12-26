@@ -44,6 +44,10 @@
                 <td>@report.CreatedBy</td>
                 <td>@report.Content</td>
                 <td>@report.CreatedAt.ToShortDateString()</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Reports", new { id = report.Id })" class="btn btn-warning">Düzenle</a>
+                    <a asp-action="Details" asp-route-id="@report.Id" class="btn btn-info">Detayları Görüntüle</a>
+                </td>
             </tr>
         }
     </tbody>

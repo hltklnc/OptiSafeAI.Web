@@ -7596,11 +7596,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\halit\\OneDrive\\Masaüstü\\Halit\\Projeler\\OptiSafeAI\\İSGDeneme2\\İSGDeneme2.csproj",
+      "projectUniqueName": "C:\\Users\\halit\\OneDrive\\Masaüstü\\Halit\\Projeler\\OptiSafeAI.Web\\İSGDeneme2\\İSGDeneme2.csproj",
       "projectName": "İSGDeneme2",
-      "projectPath": "C:\\Users\\halit\\OneDrive\\Masaüstü\\Halit\\Projeler\\OptiSafeAI\\İSGDeneme2\\İSGDeneme2.csproj",
+      "projectPath": "C:\\Users\\halit\\OneDrive\\Masaüstü\\Halit\\Projeler\\OptiSafeAI.Web\\İSGDeneme2\\İSGDeneme2.csproj",
       "packagesPath": "C:\\Users\\halit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\halit\\OneDrive\\Masaüstü\\Halit\\Projeler\\OptiSafeAI\\İSGDeneme2\\obj\\",
+      "outputPath": "C:\\Users\\halit\\OneDrive\\Masaüstü\\Halit\\Projeler\\OptiSafeAI.Web\\İSGDeneme2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\halit\\AppData\\Roaming\\NuGet\\NuGet.Config",

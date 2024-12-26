@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("İSGDeneme2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1d5872239f712a9dd6b120088a624bfaf41c90a")]
 [assembly: System.Reflection.AssemblyProductAttribute("İSGDeneme2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("İSGDeneme2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
